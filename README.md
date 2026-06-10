@@ -57,11 +57,10 @@ I was not sure on whether to keep all variations even in one trim ( for example 
 To keep the data current I would deploy the script as a scheduled job — a weekly cron or a cloud scheduler task (e.g. AWS EventBridge, GitHub Actions on a schedule). The scraper is already idempotent within a day and organises output by date under `scrapped/<YYYY-MM-DD>/`, so each run naturally produces a versioned snapshot.
 
 To detect new model years automatically I would compare the `year` field parsed from `#fso-header-data` against the most recently stored year for each model. If the year increments, the pipeline would send an alert (email or Slack) and write the new data into a fresh dated folder. A lightweight diff step — comparing trim names and MSRP values between the previous and current snapshots — would surface new trims, discontinued trims, and price changes without manual review.
-# toyota_data
-# toyota_data
 
 
-Some notes on Cursor: 
+## Some notes on Cursor:    
+
 I did have two conversations, one to explore and plan, which fetched the data and validated the design which is in: 
 cursor_python_script_for_fetching_html.md
 
