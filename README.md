@@ -61,7 +61,7 @@ To detect new model years automatically I would compare the `year` field parsed 
 # toyota_data
 
 
-Files and not on Cursor: 
+Some notes on Cursor: 
 I did have two conversations, one to explore and plan, which fetched the data and validated the design which is in: 
 cursor_python_script_for_fetching_html.md
 
