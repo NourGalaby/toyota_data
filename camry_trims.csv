@@ -1,0 +1,11 @@
+year,make,model,trim,trim_id,base_msrp,fuel_type,horsepower,drivetrain,seating_capacity,overall_length,overall_width,overall_height,wheelbase
+2026,Toyota,Camry,LE,2552,"$30,825",Hybrid,232,AWD,5,193.5,72.4,56.9,111.2
+2026,Toyota,Camry,LE,2559,"$29,300",Hybrid,225,FWD,5,193.5,72.4,56.9,111.2
+2026,Toyota,Camry,Nightshade,2551,"$34,325",Hybrid,232,AWD,5,193.5,72.4,56.9,111.2
+2026,Toyota,Camry,Nightshade,2558,"$32,800",Hybrid,225,FWD,5,193.5,72.4,56.9,111.2
+2026,Toyota,Camry,SE,2553,"$33,325",Hybrid,232,AWD,5,193.5,72.4,56.9,111.2
+2026,Toyota,Camry,SE,2561,"$31,800",Hybrid,225,FWD,5,193.5,72.4,56.9,111.2
+2026,Toyota,Camry,XLE,2555,"$36,025",Hybrid,232,AWD,5,193.5,72.4,56.9,111.2
+2026,Toyota,Camry,XLE,2560,"$34,500",Hybrid,225,FWD,5,193.5,72.4,56.9,111.2
+2026,Toyota,Camry,XSE,2556,"$37,225",Hybrid,232,AWD,5,193.5,72.4,56.9,111.2
+2026,Toyota,Camry,XSE,2557,"$35,700",Hybrid,225,FWD,5,193.5,72.4,56.9,111.2

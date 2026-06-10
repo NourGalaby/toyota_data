@@ -1,0 +1,830 @@
+[
+  {
+    "year": "2026",
+    "make": "Toyota",
+    "model": "Camry",
+    "trim": "LE",
+    "trim_id": "2552",
+    "base_msrp": "$30,825",
+    "fuel_type": "Hybrid",
+    "horsepower": "232",
+    "drivetrain": "AWD",
+    "seating_capacity": "5",
+    "dimensions": {
+      "overall_length": "193.5",
+      "overall_width": "72.4",
+      "overall_height": "56.9",
+      "wheelbase": "111.2"
+    }
+  },
+  {
+    "year": "2026",
+    "make": "Toyota",
+    "model": "Camry",
+    "trim": "LE",
+    "trim_id": "2559",
+    "base_msrp": "$29,300",
+    "fuel_type": "Hybrid",
+    "horsepower": "225",
+    "drivetrain": "FWD",
+    "seating_capacity": "5",
+    "dimensions": {
+      "overall_length": "193.5",
+      "overall_width": "72.4",
+      "overall_height": "56.9",
+      "wheelbase": "111.2"
+    }
+  },
+  {
+    "year": "2026",
+    "make": "Toyota",
+    "model": "Camry",
+    "trim": "Nightshade",
+    "trim_id": "2551",
+    "base_msrp": "$34,325",
+    "fuel_type": "Hybrid",
+    "horsepower": "232",
+    "drivetrain": "AWD",
+    "seating_capacity": "5",
+    "dimensions": {
+      "overall_length": "193.5",
+      "overall_width": "72.4",
+      "overall_height": "56.9",
+      "wheelbase": "111.2"
+    }
+  },
+  {
+    "year": "2026",
+    "make": "Toyota",
+    "model": "Camry",
+    "trim": "Nightshade",
+    "trim_id": "2558",
+    "base_msrp": "$32,800",
+    "fuel_type": "Hybrid",
+    "horsepower": "225",
+    "drivetrain": "FWD",
+    "seating_capacity": "5",
+    "dimensions": {
+      "overall_length": "193.5",
+      "overall_width": "72.4",
+      "overall_height": "56.9",
+      "wheelbase": "111.2"
+    }
+  },
+  {
+    "year": "2026",
+    "make": "Toyota",
+    "model": "Camry",
+    "trim": "SE",
+    "trim_id": "2553",
+    "base_msrp": "$33,325",
+    "fuel_type": "Hybrid",
+    "horsepower": "232",
+    "drivetrain": "AWD",
+    "seating_capacity": "5",
+    "dimensions": {
+      "overall_length": "193.5",
+      "overall_width": "72.4",
+      "overall_height": "56.9",
+      "wheelbase": "111.2"
+    }
+  },
+  {
+    "year": "2026",
+    "make": "Toyota",
+    "model": "Camry",
+    "trim": "SE",
+    "trim_id": "2561",
+    "base_msrp": "$31,800",
+    "fuel_type": "Hybrid",
+    "horsepower": "225",
+    "drivetrain": "FWD",
+    "seating_capacity": "5",
+    "dimensions": {
+      "overall_length": "193.5",
+      "overall_width": "72.4",
+      "overall_height": "56.9",
+      "wheelbase": "111.2"
+    }
+  },
+  {
+    "year": "2026",
+    "make": "Toyota",
+    "model": "Camry",
+    "trim": "XLE",
+    "trim_id": "2555",
+    "base_msrp": "$36,025",
+    "fuel_type": "Hybrid",
+    "horsepower": "232",
+    "drivetrain": "AWD",
+    "seating_capacity": "5",
+    "dimensions": {
+      "overall_length": "193.5",
+      "overall_width": "72.4",
+      "overall_height": "56.9",
+      "wheelbase": "111.2"
+    }
+  },
+  {
+    "year": "2026",
+    "make": "Toyota",
+    "model": "Camry",
+    "trim": "XLE",
+    "trim_id": "2560",
+    "base_msrp": "$34,500",
+    "fuel_type": "Hybrid",
+    "horsepower": "225",
+    "drivetrain": "FWD",
+    "seating_capacity": "5",
+    "dimensions": {
+      "overall_length": "193.5",
+      "overall_width": "72.4",
+      "overall_height": "56.9",
+      "wheelbase": "111.2"
+    }
+  },
+  {
+    "year": "2026",
+    "make": "Toyota",
+    "model": "Camry",
+    "trim": "XSE",
+    "trim_id": "2556",
+    "base_msrp": "$37,225",
+    "fuel_type": "Hybrid",
+    "horsepower": "232",
+    "drivetrain": "AWD",
+    "seating_capacity": "5",
+    "dimensions": {
+      "overall_length": "193.5",
+      "overall_width": "72.4",
+      "overall_height": "56.9",
+      "wheelbase": "111.2"
+    }
+  },
+  {
+    "year": "2026",
+    "make": "Toyota",
+    "model": "Camry",
+    "trim": "XSE",
+    "trim_id": "2557",
+    "base_msrp": "$35,700",
+    "fuel_type": "Hybrid",
+    "horsepower": "225",
+    "drivetrain": "FWD",
+    "seating_capacity": "5",
+    "dimensions": {
+      "overall_length": "193.5",
+      "overall_width": "72.4",
+      "overall_height": "56.9",
+      "wheelbase": "111.2"
+    }
+  },
+  {
+    "year": "2026",
+    "make": "Toyota",
+    "model": "RAV4",
+    "trim": "LE",
+    "trim_id": "4435",
+    "base_msrp": "$33,300",
+    "fuel_type": "Hybrid",
+    "horsepower": "236",
+    "drivetrain": "AWD",
+    "seating_capacity": "5",
+    "dimensions": {
+      "overall_length": "181",
+      "overall_width": "73",
+      "overall_height": "66.5",
+      "wheelbase": "105.9"
+    }
+  },
+  {
+    "year": "2026",
+    "make": "Toyota",
+    "model": "RAV4",
+    "trim": "LE",
+    "trim_id": "4521",
+    "base_msrp": "$31,900",
+    "fuel_type": "Hybrid",
+    "horsepower": "226",
+    "drivetrain": "FWD",
+    "seating_capacity": "5",
+    "dimensions": {
+      "overall_length": "181",
+      "overall_width": "73",
+      "overall_height": "66.5",
+      "wheelbase": "105.9"
+    }
+  },
+  {
+    "year": "2026",
+    "make": "Toyota",
+    "model": "RAV4",
+    "trim": "Limited",
+    "trim_id": "4534",
+    "base_msrp": "$43,300",
+    "fuel_type": "Hybrid",
+    "horsepower": "236",
+    "drivetrain": "AWD",
+    "seating_capacity": "5",
+    "dimensions": {
+      "overall_length": "181",
+      "overall_width": "73",
+      "overall_height": "66.5",
+      "wheelbase": "105.9"
+    }
+  },
+  {
+    "year": "2026",
+    "make": "Toyota",
+    "model": "RAV4",
+    "trim": "SE",
+    "trim_id": "4524",
+    "base_msrp": "$36,100",
+    "fuel_type": "Hybrid",
+    "horsepower": "236",
+    "drivetrain": "AWD",
+    "seating_capacity": "5",
+    "dimensions": {
+      "overall_length": "181",
+      "overall_width": "73",
+      "overall_height": "66.5",
+      "wheelbase": "105.9"
+    }
+  },
+  {
+    "year": "2026",
+    "make": "Toyota",
+    "model": "RAV4",
+    "trim": "SE",
+    "trim_id": "4523",
+    "base_msrp": "$34,700",
+    "fuel_type": "Hybrid",
+    "horsepower": "226",
+    "drivetrain": "FWD",
+    "seating_capacity": "5",
+    "dimensions": {
+      "overall_length": "181",
+      "overall_width": "73",
+      "overall_height": "66.5",
+      "wheelbase": "105.9"
+    }
+  },
+  {
+    "year": "2026",
+    "make": "Toyota",
+    "model": "RAV4",
+    "trim": "Woodland",
+    "trim_id": "4437",
+    "base_msrp": "$39,900",
+    "fuel_type": "Hybrid",
+    "horsepower": "236",
+    "drivetrain": "AWD",
+    "seating_capacity": "5",
+    "dimensions": {
+      "overall_length": "182",
+      "overall_width": "74",
+      "overall_height": "66.5",
+      "wheelbase": "105.9"
+    }
+  },
+  {
+    "year": "2026",
+    "make": "Toyota",
+    "model": "RAV4",
+    "trim": "XLE Premium",
+    "trim_id": "4444",
+    "base_msrp": "$37,500",
+    "fuel_type": "Hybrid",
+    "horsepower": "236",
+    "drivetrain": "AWD",
+    "seating_capacity": "5",
+    "dimensions": {
+      "overall_length": "181",
+      "overall_width": "73",
+      "overall_height": "66.5",
+      "wheelbase": "105.9"
+    }
+  },
+  {
+    "year": "2026",
+    "make": "Toyota",
+    "model": "RAV4",
+    "trim": "XLE Premium",
+    "trim_id": "4527",
+    "base_msrp": "$36,100",
+    "fuel_type": "Hybrid",
+    "horsepower": "226",
+    "drivetrain": "FWD",
+    "seating_capacity": "5",
+    "dimensions": {
+      "overall_length": "181",
+      "overall_width": "73",
+      "overall_height": "66.5",
+      "wheelbase": "105.9"
+    }
+  },
+  {
+    "year": "2026",
+    "make": "Toyota",
+    "model": "RAV4",
+    "trim": "XSE",
+    "trim_id": "4530",
+    "base_msrp": "$41,300",
+    "fuel_type": "Hybrid",
+    "horsepower": "236",
+    "drivetrain": "AWD",
+    "seating_capacity": "5",
+    "dimensions": {
+      "overall_length": "181",
+      "overall_width": "73",
+      "overall_height": "66.5",
+      "wheelbase": "105.9"
+    }
+  },
+  {
+    "year": "2026",
+    "make": "Toyota",
+    "model": "Tacoma",
+    "trim": "Limited",
+    "trim_id": "7582",
+    "base_msrp": "$53,470",
+    "fuel_type": "Gas",
+    "horsepower": "278 hp @ 6000 rpm",
+    "drivetrain": "4WD",
+    "seating_capacity": "5",
+    "dimensions": {
+      "overall_length": "213",
+      "overall_width": "77.9",
+      "overall_height": "74.6",
+      "wheelbase": "131.9"
+    }
+  },
+  {
+    "year": "2026",
+    "make": "Toyota",
+    "model": "Tacoma",
+    "trim": "Limited I-force Max",
+    "trim_id": "7534",
+    "base_msrp": "$56,795",
+    "fuel_type": "Hybrid",
+    "horsepower": "326 hp @ 6000 rpm",
+    "drivetrain": "4WD",
+    "seating_capacity": "5",
+    "dimensions": {
+      "overall_length": "213",
+      "overall_width": "77.9",
+      "overall_height": "74.6",
+      "wheelbase": "131.9"
+    }
+  },
+  {
+    "year": "2026",
+    "make": "Toyota",
+    "model": "Tacoma",
+    "trim": "SR",
+    "trim_id": "7514",
+    "base_msrp": "$35,645",
+    "fuel_type": "Gas",
+    "horsepower": "228 hp @ 6000 rpm",
+    "drivetrain": "4WD",
+    "seating_capacity": "2",
+    "dimensions": {
+      "overall_length": "213",
+      "overall_width": "76.9",
+      "overall_height": "74",
+      "wheelbase": "131.9"
+    }
+  },
+  {
+    "year": "2026",
+    "make": "Toyota",
+    "model": "Tacoma",
+    "trim": "SR",
+    "trim_id": "7547",
+    "base_msrp": "$37,305",
+    "fuel_type": "Gas",
+    "horsepower": "270 hp @ 5,400 rpm",
+    "drivetrain": "4WD",
+    "seating_capacity": "5",
+    "dimensions": {
+      "overall_length": "213",
+      "overall_width": "76.9",
+      "overall_height": "73.8",
+      "wheelbase": "131.9"
+    }
+  },
+  {
+    "year": "2026",
+    "make": "Toyota",
+    "model": "Tacoma",
+    "trim": "SR",
+    "trim_id": "7594",
+    "base_msrp": "$37,305",
+    "fuel_type": "Gas",
+    "horsepower": "228 hp @ 6000 rpm",
+    "drivetrain": "4WD",
+    "seating_capacity": "5",
+    "dimensions": {
+      "overall_length": "213",
+      "overall_width": "76.9",
+      "overall_height": "73.8",
+      "wheelbase": "131.9"
+    }
+  },
+  {
+    "year": "2026",
+    "make": "Toyota",
+    "model": "Tacoma",
+    "trim": "SR",
+    "trim_id": "7162",
+    "base_msrp": "$32,445",
+    "fuel_type": "Gas",
+    "horsepower": "228 hp @ 6000 rpm",
+    "drivetrain": "RWD",
+    "seating_capacity": "2",
+    "dimensions": {
+      "overall_length": "213",
+      "overall_width": "76.9",
+      "overall_height": "74",
+      "wheelbase": "131.9"
+    }
+  },
+  {
+    "year": "2026",
+    "make": "Toyota",
+    "model": "Tacoma",
+    "trim": "SR",
+    "trim_id": "7186",
+    "base_msrp": "$34,105",
+    "fuel_type": "Gas",
+    "horsepower": "228 hp @ 6000 rpm",
+    "drivetrain": "RWD",
+    "seating_capacity": "5",
+    "dimensions": {
+      "overall_length": "213",
+      "overall_width": "76.9",
+      "overall_height": "73.8",
+      "wheelbase": "131.9"
+    }
+  },
+  {
+    "year": "2026",
+    "make": "Toyota",
+    "model": "Tacoma",
+    "trim": "SR5",
+    "trim_id": "7540",
+    "base_msrp": "$40,805",
+    "fuel_type": "Gas",
+    "horsepower": "278 hp @ 6000 rpm",
+    "drivetrain": "4WD",
+    "seating_capacity": "5",
+    "dimensions": {
+      "overall_length": "213",
+      "overall_width": "76.9",
+      "overall_height": "73.9",
+      "wheelbase": "131.9"
+    }
+  },
+  {
+    "year": "2026",
+    "make": "Toyota",
+    "model": "Tacoma",
+    "trim": "SR5",
+    "trim_id": "7558",
+    "base_msrp": "$39,735",
+    "fuel_type": "Gas",
+    "horsepower": "278 hp @ 6000 rpm",
+    "drivetrain": "4WD",
+    "seating_capacity": "2",
+    "dimensions": {
+      "overall_length": "213",
+      "overall_width": "76.9",
+      "overall_height": "73.9",
+      "wheelbase": "131.9"
+    }
+  },
+  {
+    "year": "2026",
+    "make": "Toyota",
+    "model": "Tacoma",
+    "trim": "SR5",
+    "trim_id": "7570",
+    "base_msrp": "$41,305",
+    "fuel_type": "Gas",
+    "horsepower": "278 hp @ 6000 rpm",
+    "drivetrain": "4WD",
+    "seating_capacity": "5",
+    "dimensions": {
+      "overall_length": "226.2",
+      "overall_width": "76.9",
+      "overall_height": "73.8",
+      "wheelbase": "145.1"
+    }
+  },
+  {
+    "year": "2026",
+    "make": "Toyota",
+    "model": "Tacoma",
+    "trim": "SR5",
+    "trim_id": "7126",
+    "base_msrp": "$36,535",
+    "fuel_type": "Gas",
+    "horsepower": "278 hp @ 6000 rpm",
+    "drivetrain": "RWD",
+    "seating_capacity": "2",
+    "dimensions": {
+      "overall_length": "213",
+      "overall_width": "76.9",
+      "overall_height": "73.9",
+      "wheelbase": "131.9"
+    }
+  },
+  {
+    "year": "2026",
+    "make": "Toyota",
+    "model": "Tacoma",
+    "trim": "SR5",
+    "trim_id": "7146",
+    "base_msrp": "$37,605",
+    "fuel_type": "Gas",
+    "horsepower": "278 hp @ 6000 rpm",
+    "drivetrain": "RWD",
+    "seating_capacity": "5",
+    "dimensions": {
+      "overall_length": "213",
+      "overall_width": "76.9",
+      "overall_height": "73.8",
+      "wheelbase": "131.9"
+    }
+  },
+  {
+    "year": "2026",
+    "make": "Toyota",
+    "model": "Tacoma",
+    "trim": "SR5",
+    "trim_id": "7170",
+    "base_msrp": "$38,105",
+    "fuel_type": "Gas",
+    "horsepower": "278 hp @ 6000 rpm",
+    "drivetrain": "RWD",
+    "seating_capacity": "5",
+    "dimensions": {
+      "overall_length": "226.2",
+      "overall_width": "76.9",
+      "overall_height": "73.8",
+      "wheelbase": "145.1"
+    }
+  },
+  {
+    "year": "2026",
+    "make": "Toyota",
+    "model": "Tacoma",
+    "trim": "TRD Off-road",
+    "trim_id": "7544",
+    "base_msrp": "$43,815",
+    "fuel_type": "Gas",
+    "horsepower": "278 hp @ 6000 rpm",
+    "drivetrain": "4WD",
+    "seating_capacity": "5",
+    "dimensions": {
+      "overall_length": "213",
+      "overall_width": "77.9",
+      "overall_height": "74.6",
+      "wheelbase": "131.9"
+    }
+  },
+  {
+    "year": "2026",
+    "make": "Toyota",
+    "model": "Tacoma",
+    "trim": "TRD Off-road",
+    "trim_id": "7545",
+    "base_msrp": "$42,715",
+    "fuel_type": "Gas",
+    "horsepower": "270 hp @ 5,400 rpm",
+    "drivetrain": "4WD",
+    "seating_capacity": "5",
+    "dimensions": {
+      "overall_length": "213",
+      "overall_width": "77.9",
+      "overall_height": "74.6",
+      "wheelbase": "131.9"
+    }
+  },
+  {
+    "year": "2026",
+    "make": "Toyota",
+    "model": "Tacoma",
+    "trim": "TRD Off-road",
+    "trim_id": "7568",
+    "base_msrp": "$44,315",
+    "fuel_type": "Gas",
+    "horsepower": "278 hp @ 6000 rpm",
+    "drivetrain": "4WD",
+    "seating_capacity": "5",
+    "dimensions": {
+      "overall_length": "226.2",
+      "overall_width": "77.9",
+      "overall_height": "74.7",
+      "wheelbase": "145.1"
+    }
+  },
+  {
+    "year": "2026",
+    "make": "Toyota",
+    "model": "Tacoma",
+    "trim": "TRD Off-road I-force Max",
+    "trim_id": "7532",
+    "base_msrp": "$47,535",
+    "fuel_type": "Hybrid",
+    "horsepower": "326 hp @ 6000 rpm",
+    "drivetrain": "4WD",
+    "seating_capacity": "5",
+    "dimensions": {
+      "overall_length": "213",
+      "overall_width": "77.9",
+      "overall_height": "75.3",
+      "wheelbase": "131.9"
+    }
+  },
+  {
+    "year": "2026",
+    "make": "Toyota",
+    "model": "Tacoma",
+    "trim": "TRD Prerunner",
+    "trim_id": "7166",
+    "base_msrp": "$39,035",
+    "fuel_type": "Gas",
+    "horsepower": "278 hp @ 6000 rpm",
+    "drivetrain": "RWD",
+    "seating_capacity": "2",
+    "dimensions": {
+      "overall_length": "213",
+      "overall_width": "77.9",
+      "overall_height": "74.6",
+      "wheelbase": "131.9"
+    }
+  },
+  {
+    "year": "2026",
+    "make": "Toyota",
+    "model": "Tacoma",
+    "trim": "TRD Pro",
+    "trim_id": "7598",
+    "base_msrp": "$64,650",
+    "fuel_type": "Hybrid",
+    "horsepower": "326 hp @ 6000 rpm",
+    "drivetrain": "4WD",
+    "seating_capacity": "5",
+    "dimensions": {
+      "overall_length": "214.2",
+      "overall_width": "79.9",
+      "overall_height": "75.8",
+      "wheelbase": "131.9"
+    }
+  },
+  {
+    "year": "2026",
+    "make": "Toyota",
+    "model": "Tacoma",
+    "trim": "TRD Sport",
+    "trim_id": "7542",
+    "base_msrp": "$43,515",
+    "fuel_type": "Gas",
+    "horsepower": "278 hp @ 6000 rpm",
+    "drivetrain": "4WD",
+    "seating_capacity": "5",
+    "dimensions": {
+      "overall_length": "213",
+      "overall_width": "77.9",
+      "overall_height": "74.6",
+      "wheelbase": "131.9"
+    }
+  },
+  {
+    "year": "2026",
+    "make": "Toyota",
+    "model": "Tacoma",
+    "trim": "TRD Sport",
+    "trim_id": "7543",
+    "base_msrp": "$42,715",
+    "fuel_type": "Gas",
+    "horsepower": "270 hp @ 5,400 rpm",
+    "drivetrain": "4WD",
+    "seating_capacity": "5",
+    "dimensions": {
+      "overall_length": "213",
+      "overall_width": "77.9",
+      "overall_height": "74.4",
+      "wheelbase": "131.9"
+    }
+  },
+  {
+    "year": "2026",
+    "make": "Toyota",
+    "model": "Tacoma",
+    "trim": "TRD Sport",
+    "trim_id": "7566",
+    "base_msrp": "$44,015",
+    "fuel_type": "Gas",
+    "horsepower": "278 hp @ 6000 rpm",
+    "drivetrain": "4WD",
+    "seating_capacity": "5",
+    "dimensions": {
+      "overall_length": "226.2",
+      "overall_width": "77.9",
+      "overall_height": "74.5",
+      "wheelbase": "145.1"
+    }
+  },
+  {
+    "year": "2026",
+    "make": "Toyota",
+    "model": "Tacoma",
+    "trim": "TRD Sport",
+    "trim_id": "7148",
+    "base_msrp": "$40,315",
+    "fuel_type": "Gas",
+    "horsepower": "278 hp @ 6000 rpm",
+    "drivetrain": "RWD",
+    "seating_capacity": "5",
+    "dimensions": {
+      "overall_length": "213",
+      "overall_width": "77.9",
+      "overall_height": "74.7",
+      "wheelbase": "131.9"
+    }
+  },
+  {
+    "year": "2026",
+    "make": "Toyota",
+    "model": "Tacoma",
+    "trim": "TRD Sport",
+    "trim_id": "7172",
+    "base_msrp": "$40,815",
+    "fuel_type": "Gas",
+    "horsepower": "278 hp @ 6000 rpm",
+    "drivetrain": "RWD",
+    "seating_capacity": "5",
+    "dimensions": {
+      "overall_length": "226.2",
+      "overall_width": "77.9",
+      "overall_height": "74.7",
+      "wheelbase": "145.1"
+    }
+  },
+  {
+    "year": "2026",
+    "make": "Toyota",
+    "model": "Tacoma",
+    "trim": "TRD Sport I-force Max",
+    "trim_id": "7530",
+    "base_msrp": "$47,235",
+    "fuel_type": "Hybrid",
+    "horsepower": "326 hp @ 6000 rpm",
+    "drivetrain": "4WD",
+    "seating_capacity": "5",
+    "dimensions": {
+      "overall_length": "213",
+      "overall_width": "77.9",
+      "overall_height": "74.6",
+      "wheelbase": "131.9"
+    }
+  },
+  {
+    "year": "2026",
+    "make": "Toyota",
+    "model": "Tacoma",
+    "trim": "Trailhunter",
+    "trim_id": "7536",
+    "base_msrp": "$63,650",
+    "fuel_type": "Hybrid",
+    "horsepower": "323 hp @ 6000 rpm",
+    "drivetrain": "4WD",
+    "seating_capacity": "5",
+    "dimensions": {
+      "overall_length": "214.2",
+      "overall_width": "79.9",
+      "overall_height": "75.8",
+      "wheelbase": "131.9"
+    }
+  },
+  {
+    "year": "2026",
+    "make": "Toyota",
+    "model": "Tacoma",
+    "trim": "Trailhunter",
+    "trim_id": "7538",
+    "base_msrp": "$64,150",
+    "fuel_type": "Hybrid",
+    "horsepower": "323 hp @ 6000 rpm",
+    "drivetrain": "4WD",
+    "seating_capacity": "5",
+    "dimensions": {
+      "overall_length": "227.4",
+      "overall_width": "79.9",
+      "overall_height": "75.5",
+      "wheelbase": "145.1"
+    }
+  }
+]
